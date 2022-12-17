@@ -20,7 +20,7 @@ body {
   font-weight: 300;
   line-height: 1.4;
   color: #FFFFFF;
-  background: #070A29;
+  background: #032602;
   position: relative;
   overflow-x: hidden;
   color: #FFFFFF;
@@ -586,7 +586,7 @@ body[data-magic-cursor=hide] .mouse-cursor {
   top: -70%;
   left: -60%;
   z-index: -1;
-  background: radial-gradient(34.98% 34.98% at 50% 50%, #725BDA 0%, rgba(6, 19, 45, 0) 100%);
+  background: radial-gradient(34.98% 34.98% at 50% 50%, #5bda5f 0%, rgba(6, 19, 45, 0) 100%);
   opacity: 0.5;
 }
 .shape.right {
@@ -782,7 +782,7 @@ a {
   position: absolute;
   opacity: 0;
   visibility: hidden;
-  background: #070A29;
+  /* background: #070A29; */
   top: -100%;
   transition: all 0.4s ease-in-out;
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.3);
@@ -1185,7 +1185,7 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .action-btn span {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #daffc7 -38.2%, #0d540c 103.12%);
   padding: 10px 20px;
   border-radius: 10px;
   color: #fff;
@@ -1290,7 +1290,7 @@ a {
   margin-bottom: 40px;
 }
 .banner .block-text .heading span {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #21910a 103.12%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   position: relative;
@@ -3031,7 +3031,7 @@ img.mfp-img {
 }
 .project-swiper .swiper-button-prev, .project-swiper-3 .swiper-button-prev {
   left: 36%;
-  background: #703FFE;
+  /* background: #703FFE; */
 }
 
 .banner.s2 .swiper-button-next, .banner.s2 .swiper-button-prev, .banner.s3 .swiper-button-next, .banner.s3 .swiper-button-prev, .banner.s4 .swiper-button-next, .banner.s4 .swiper-button-prev {
@@ -3785,7 +3785,7 @@ img.mfp-img {
   z-index: 0;
 }
 .create__main .content {
-  position: relative;
+  position: absolute;
   z-index: 1;
   padding: 32px 30px 29px;
 }
