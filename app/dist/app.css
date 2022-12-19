@@ -27,7 +27,7 @@ body {
 }
 
 :root {
-  --primary-color: #5C27FE;
+  --primary-color: #55cb25;
 }
 
 ul, li {
@@ -782,7 +782,7 @@ a {
   position: absolute;
   opacity: 0;
   visibility: hidden;
-  /* background: #070A29; */
+  background: #052601d6;
   top: -100%;
   transition: all 0.4s ease-in-out;
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.3);
@@ -1237,7 +1237,7 @@ a {
   visibility: hidden;
   cursor: pointer;
   overflow: hidden;
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #c7ffd0be -38.2%, #2efe27 103.12%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1268,7 +1268,7 @@ a {
   margin-bottom: 22px;
 }
 .block-text .sub-heading span {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), #FFFFFF;
+  background: linear-gradient(264.28deg, #96f08e -38.2%, #067214d7 103.12%), #FFFFFF;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1840,7 +1840,7 @@ a {
   justify-content: center;
 }
 .footer .footer__bottom .list-social li a:hover {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #126c0c9e -38.2%, #5bdf43d9 103.12%);
 }
 @media only screen and (max-width: 1024px) {
   .footer .footer__bottom {
@@ -2833,7 +2833,7 @@ img.mfp-img {
   border-radius: 15px;
 }
 .speciality-box .icon {
-  background: linear-gradient(289.89deg, #DEC7FF -23.71%, #5C27FE 96.09%);
+  background: linear-gradient(289.89deg, #DEC7FF -23.71%, #08891229 96.09%);
   backdrop-filter: blur(4px);
   width: 105px;
   height: 105px;
@@ -3019,7 +3019,7 @@ img.mfp-img {
   display: none;
 }
 .project-swiper .swiper-button-next:hover, .project-swiper .swiper-button-prev:hover, .project-swiper-3 .swiper-button-next:hover, .project-swiper-3 .swiper-button-prev:hover {
-  background: #703FFE;
+  background: #15b422bd;
 }
 @media only screen and (max-width: 1200px) {
   .project-swiper .swiper-button-next, .project-swiper .swiper-button-prev, .project-swiper-3 .swiper-button-next, .project-swiper-3 .swiper-button-prev {
@@ -3422,7 +3422,7 @@ img.mfp-img {
   transition: all 0.3s ease-in-out;
 }
 .team.s2 .team-box .image .list-social li a:hover {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #126c0c9e -38.2%, #5bdf43d9 103.12%);
 }
 .team.s2 .team-box .image .list-social li a:hover span::before {
   color: #fff;
@@ -3510,7 +3510,7 @@ img.mfp-img {
   justify-content: center;
 }
 .list-social li a:hover {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #126c0c9e -38.2%, #5bdf43d9 103.12%);
 }
 
 .brands {
@@ -3714,7 +3714,7 @@ img.mfp-img {
   cursor: pointer;
 }
 .faq__main ul li.active {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), rgba(255, 255, 255, 0.1);
+  background: linear-gradient(264.28deg, #197a17 -38.2%, #61d33c9e 103.12%), rgba(255, 255, 255, 0.1);
 }
 @media only screen and (max-width: 767px) {
   .faq__main ul li {
@@ -3816,7 +3816,7 @@ img.mfp-img {
 }
 
 .couter__main {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #046010 -38.2%, #27fe2e 103.12%);
   border-radius: 26px;
   padding: 37px 43px;
   position: relative;
@@ -4027,7 +4027,7 @@ img.mfp-img {
 }
 
 .touch__main {
-  background: #191E4F;
+  background: #08200236;
   backdrop-filter: blur(2px);
   border-radius: 16px;
   overflow: hidden;
@@ -5484,8 +5484,8 @@ section.banner.s3.s2 .container .swiper-button-prev {
   padding: 16px;
 }
 .page-title .page-title__main {
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), linear-gradient(89.96deg, rgba(255, 255, 255, 0.05) 0.03%, rgba(255, 255, 255, 0.008) 49.67%, rgba(255, 255, 255, 0.05) 99.96%);
-  backdrop-filter: blur(2px);
+  background: linear-gradient(264.28deg, #cdcdcd40 -38.2%, #0000004a 103.12%), linear-gradient(89.96deg, rgba(255, 255, 255, 0.05) 0.03%, rgba(255, 255, 255, 0.008) 49.67%, rgba(255, 255, 255, 0.05) 99.96%);
+  /* backdrop-filter: blur(2px); */
   border-radius: 26px;
   padding: 30px;
   text-align: center;
