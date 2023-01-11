@@ -20,7 +20,7 @@ body {
   font-weight: 300;
   line-height: 1.4;
   color: #FFFFFF;
-  background: #032602;
+  background: #0c240d;
   position: relative;
   overflow-x: hidden;
   color: #FFFFFF;
@@ -586,7 +586,7 @@ body[data-magic-cursor=hide] .mouse-cursor {
   top: -70%;
   left: -60%;
   z-index: -1;
-  background: radial-gradient(34.98% 34.98% at 50% 50%, #5bda5f 0%, rgba(6, 19, 45, 0) 100%);
+  background: radial-gradient(34.98% 34.98% at 50% 50%, #05685f 0%, rgba(6, 19, 45, 0) 100%);
   opacity: 0.5;
 }
 .shape.right {
@@ -1302,7 +1302,7 @@ a {
   position: absolute;
   bottom: -57px;
   left: -63px;
-  background: url("../../../assets/images/icon/Line.png") no-repeat;
+  /* background: url("../../../assets/images/icon/line1.png") no-repeat; */
 }
 .banner .block-text .desc {
   padding-right: 130px;
@@ -2833,7 +2833,7 @@ img.mfp-img {
   border-radius: 15px;
 }
 .speciality-box .icon {
-  background: linear-gradient(289.89deg, #DEC7FF -23.71%, #08891229 96.09%);
+  background: linear-gradient(289.89deg, rgb(6 86 12) -23.71%, rgb(36 56 38 / 16%) 96.09%);
   backdrop-filter: blur(4px);
   width: 105px;
   height: 105px;
@@ -3206,7 +3206,7 @@ img.mfp-img {
   top: -40px;
   left: 50%;
   right: 50%;
-  background: #1F223E;
+  background: rgb(86 203 100);
   height: 104%;
   width: 1px;
 }
@@ -3217,7 +3217,7 @@ img.mfp-img {
   width: 11px;
   height: 11px;
   border-radius: 50%;
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), #FFFFFF;
+  background: linear-gradient(264.28deg, #051402 -38.2%, #40f52a 103.12%), #FFFFFF;
 }
 .roadmap__main .icon.bottom {
   top: auto;
@@ -3298,7 +3298,7 @@ img.mfp-img {
   right: -28px;
   width: 28px;
   height: 1px;
-  background: #1F223E;
+  background: rgb(86 203 100);
 }
 .roadmap-box::after {
   content: "";
@@ -3308,7 +3308,7 @@ img.mfp-img {
   right: -40px;
   width: 19px;
   height: 19px;
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), #FFFFFF;
+  background: linear-gradient(264.28deg, #c7ffce -38.2%, #3cb91d 103.12%), #307611;
   border: 4px solid #1F223E;
   border-radius: 50%;
 }
@@ -3333,7 +3333,7 @@ img.mfp-img {
   top: -15px;
   left: 29px;
   padding: 6px 16px;
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%), #FFFFFF;
+  background: linear-gradient(264.28deg, #1dda1d -38.2%, #189616 103.12%), #83c58c;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -3351,7 +3351,7 @@ img.mfp-img {
   content: "";
   width: 60px;
   height: 4px;
-  background: linear-gradient(264.28deg, #DEC7FF -38.2%, #5C27FE 103.12%);
+  background: linear-gradient(264.28deg, #22cf3f -38.2%, #065201 103.12%);
   border-radius: 1.2px;
   position: absolute;
   bottom: 0;
