@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/stataglobal/public_html/
+    - /bin/cp -R * $DEPLOYPATH
